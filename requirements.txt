@@ -27,3 +27,4 @@ click
 six
 celery[redis]
 openpyxl
+celery>=5.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
